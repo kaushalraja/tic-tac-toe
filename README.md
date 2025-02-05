@@ -35,10 +35,6 @@ To start the Tic-Tac-Toe game, run the following command:
 python src/app.py
 ```
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
